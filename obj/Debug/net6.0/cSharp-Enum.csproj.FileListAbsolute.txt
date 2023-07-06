@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\bin\Debug\net6.0\cSharp-Enum.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\bin\Debug\net6.0\cSharp-Enum.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\bin\Debug\net6.0\cSharp-Enum.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\bin\Debug\net6.0\cSharp-Enum.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\bin\Debug\net6.0\cSharp-Enum.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\refint\cSharp-Enum.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\cSharp-Enum.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Enum\obj\Debug\net6.0\ref\cSharp-Enum.dll
