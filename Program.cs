@@ -28,6 +28,17 @@ namespace cSharp_Enum
             int orginalValue = 300;
             CarType type = (CarType)orginalValue;
             Console.WriteLine(type.ToString());
+            // Task 1:Create an enum called DaysOfWeek to represent the days of the
+            // week (Sunday, Monday, Tuesday, etc.). Write a program that prompts the
+            // user to enter a day of the week and displays a message based on the entered value.
+            // Use the switch statement to handle different cases.
+
+            // Task 1:
+
+            Console.WriteLine("\r\nTask 1: DaysOfWeek\r\n~~~~~~~~~~~~~~~");
+            DayOfWeek.weekDays();
+
+            
             
         }
 
