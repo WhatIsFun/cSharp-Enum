@@ -22,8 +22,8 @@ namespace cSharp_Enum
             //}
             Console.WriteLine((int)Gender.MALE);
             Console.WriteLine((int)CarType.BASIC);
-            string description = GetEnumDescription(CarType.PERMIUM);
-            Console.WriteLine(description);
+            //string description = GetEnumDescription(CarType.PERMIUM);
+            //Console.WriteLine(description);
 
             int orginalValue = 300;
             CarType type = (CarType)orginalValue;
@@ -51,9 +51,14 @@ namespace cSharp_Enum
             // it is not a valid favorite color.
             Console.WriteLine("\r\nTask 3: FavoriteColor\r\n~~~~~~~~~~~~~~~");
             Color.favoriteColor();
+
+            // Task 4: Write a program that converts an integer input to its corresponding enum value. Prompt the user to enter an integer and display the corresponding enum value.
+            // Handle cases where the entered integer does not match any enum value by displaying an appropriate error message.
+            Console.WriteLine("\r\nTask 4: EnumValue\r\n~~~~~~~~~~~~~~~");
+            Enums.integerInput();
         }
 
-        public static string GetEnumDescription(Enum value)
+        public static string GetEnumDescription(Enums value)
         {
             FieldInfo fi = value.GetType().GetField(value.ToString());
 
