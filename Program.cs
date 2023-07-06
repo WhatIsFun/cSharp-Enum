@@ -56,6 +56,11 @@ namespace cSharp_Enum
             // Handle cases where the entered integer does not match any enum value by displaying an appropriate error message.
             Console.WriteLine("\r\nTask 4: EnumValue\r\n~~~~~~~~~~~~~~~");
             Enums.integerInput();
+
+            // Task 5: Create an enum called TrafficLight to represent the three colors of a traffic light (Red, Yellow, Green). Write a program that simulates a traffic light sequence
+            // by repeatedly displaying each color for a specified duration. Use a loop to iterate through the enum values and pause the program for a specific duration between each color change.
+            Console.WriteLine("\r\nTask 5: TrafficLight\r\n~~~~~~~~~~~~~~~");
+            Traffic.trafficLight();
         }
 
         public static string GetEnumDescription(Enums value)
