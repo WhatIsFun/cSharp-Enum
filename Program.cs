@@ -44,6 +44,13 @@ namespace cSharp_Enum
             // Use an if-else statement to handle different cases.
             Console.WriteLine("\r\nTask 2: ClothingSize\r\n~~~~~~~~~~~~~~~");
             Cloth.colthingSize();
+
+            // Task 3: . Create an enum called FavoriteColor to represent different favorite colors (Red, Blue, Green, etc.).
+            // Write a program that asks the user to enter their favorite color. If the entered color is one of the enum values,
+            // display a message confirming their choice. If the entered color is not in the enum, display a message stating that
+            // it is not a valid favorite color.
+            Console.WriteLine("\r\nTask 3: FavoriteColor\r\n~~~~~~~~~~~~~~~");
+            Color.favoriteColor();
         }
 
         public static string GetEnumDescription(Enum value)
